@@ -74,3 +74,20 @@ Completed
 
 ## Author
 Thennarasi
+
+## Project Structure
+
+superstore-sales-analytics/
+│
+├── data/
+│   └── README.md
+│
+├── README.md
+├── Superstore_Sales_Analytics.pbix
+└── superstore-dashboard.png.png
+
+## How to Use
+
+1. Clone or download this repository.
+2. Open `Superstore_Sales_Analytics.pbix` using Power BI Desktop.
+3. Explore the dashboard using the Year, Region, and Category filters.
