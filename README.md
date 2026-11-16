@@ -33,7 +33,7 @@ The report uses three tables:
 Relationships were created to support interactive analysis across the tables.
 
 ## Dashboard Preview
-![Superstore Sales Dashboard](superstore-dashboard.png)
+![Superstore Sales Dashboard](superstore-dashboard.png.png)
 
 ## Business Questions
 This dashboard explores the following business questions:
