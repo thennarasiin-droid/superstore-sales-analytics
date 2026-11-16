@@ -1,0 +1,16 @@
+## Dataset
+
+This project uses the Sample Superstore dataset for sales and business performance analysis.
+
+The data includes:
+- Orders: Sales, profit, customer, product, and shipping details.
+- People: Regional manager information.
+- Returns: Returned order information.
+
+The dataset was used for data cleaning, data modelling, DAX calculations, and dashboard development.
+
+## Dataset Source
+
+The project uses the Sample Superstore dataset provided by Tableau.
+
+[Download Sample Superstore Dataset](https://public.tableau.com/app/learn/sample-data)
